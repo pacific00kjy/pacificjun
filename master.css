@@ -154,12 +154,12 @@ footer{
 }
 
 .footer_text{
-    margin-left: 700px;
+    margin-left: 750px;
     color: #fff;
     display: flex;
     text-align: right;
     position: absolute;   
-    margin-bottom: 50px; 
+   margin-top: 30px;
 }
     
 .footer_img{
@@ -176,7 +176,7 @@ footer{
 .logo_position{
     width: 1100px;
     height: 98px;
-    margin-top: 241x;
+    margin-top: 30Px;
     border: 0px solid red;
 }
 
