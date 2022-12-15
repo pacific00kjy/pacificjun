@@ -303,7 +303,15 @@ footer{
     height: 100vh;
     border: 0px solid red;
     position: absolute;
+}
+.tit_field2{
+    width: 100vw;
+    height: 100vh;
+    border: 0px solid red;
+    position: absolute;
+    display: flex;
     align-items: center;
+    justify-content: center;
 
 }
 .box2{
@@ -341,8 +349,7 @@ width: 100%;
      display: flex;
 }
 .img_tit_01{
-    position: absolute;
-    margin-top: 360px;
+    position: relative;
 }
 
 .img_tit_02{
