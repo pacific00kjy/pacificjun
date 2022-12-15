@@ -154,7 +154,7 @@ footer{
 }
 
 .footer_text{
-    margin-left: 800px;
+    margin-left: 700px;
     color: #fff;
     display: flex;
     text-align: right;
@@ -170,7 +170,6 @@ footer{
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
-    align-items: center;
     justify-content: center;
     border: 0px solid red;
 }
