@@ -16,7 +16,7 @@ header > nav > .menu{display: inline-block;padding-right: 4.0rem;}
 
 header > .nav_menu{position: relative;display: none;}
 header > .nav_menu > ul{display: inline-block;width: 100%;padding: 0rem 0rem;}
-header > .nav_menu > ul > li{list-style: none;text-align: right;background-color: #1D086A;padding: 1.3rem 2.3rem;border-bottom: 1px solid #6349BE;}
+header > .nav_menu > ul > li{list-style: none;text-align: right;background-color: #474747;padding: 1.3rem 2.3rem;border-bottom: 1px solid #a6a6a6;}
 header > .nav_menu > ul > li > a{font-family: 'Noto Sans KR', sans-serif;font-size: 1.6rem;font-weight: 500;}
 
 header > .nav_menu.active{display: flex; background-color:  #19171A;;}
